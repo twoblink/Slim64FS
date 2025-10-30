@@ -1,15 +1,12 @@
----
-title: "Slim64FS: A Minimalist File System for Removable Storage"
+title: "Slim64FS: A Minimalist File System for Removable Storage"  
+document_id: "Slim64-RFC"  
+version: "0.4 (Draft 4 – 2025-10-29)"  
+status: "Draft"  
+author: "Albert Yang (twoblink)"  
+email: "twoblink@gmail.com"  
+license: "Apache-2.0"  
+repository: "https://github.com/twoblink/Slim64FS"  
 
-#Slim64FS RFC
-
-**Document ID:** Slim64-RFC  
-**Version:** 0.4 (Draft 4 – 2025-10-29)  
-**Status:** Draft  
-**Author:** Albert Yang (twoblink)  
-**Email:**  twoblink@gmail.com
-**License:** Apache-2.0  
-**Repository:** [github.com/twoblink/Slim64FS](https://github.com/twoblink/Slim64FS)
 
 ---
 
